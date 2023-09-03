@@ -1,0 +1,27 @@
+C:\Users\moo\source\repos\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.deps.json
+C:\Users\moo\source\repos\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\moo\source\repos\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.pdb
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.csprojAssemblyReference.cache
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfoInputs.cache
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfo.cs
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.csproj.CoreCompileInputs.cache
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\moo\source\repos\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.pdb
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.deps.json
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.pdb
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfoInputs.cache
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfo.cs
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\Mohamed Abd ElSattar\Desktop\LeGateProject\legate.project\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.pdb
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.deps.json
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\bin\Debug\netcoreapp3.1\Infrastructur.pdb
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfoInputs.cache
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.AssemblyInfo.cs
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.dll
+C:\Users\Mohamed Abd ElSattar\Desktop\Clean.CQRS.Demo\Infrastructur\obj\Debug\netcoreapp3.1\Infrastructur.pdb
